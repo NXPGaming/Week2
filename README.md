@@ -1,2 +1,2 @@
-# Week2
-CTDL_GT
+#Week2
+Nguyen Van Phong
